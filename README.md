@@ -4,6 +4,8 @@
   <img alt="output" src="images/output.gif" />
  </div>
 
+This project is made for our major project in final year were we have completedt  this with the help of professors and teacher basically this project in depth information is given below...
+
 > This Project uses OpenCV and MediaPipe to Control system volume 
 
 ## 💾 REQUIREMENTS
